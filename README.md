@@ -37,7 +37,7 @@ This project is a simple REST API for a banking application that allows users to
      {
        "MongoDbSettings": {
          "ConnectionString": "your-mongodb-connection-string",
-         "DatabaseName": "BankingDb"
+         "DatabaseName": "blanconeDB"
        }
      }
      ```
