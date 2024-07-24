@@ -1,0 +1,30 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore log files
+*.log
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Rider files
+.idea/
+*.sln.iml
+
+# Ignore ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Ignore Local History
+.localhistory
+
+# Ignore .DS_Store for macOS users
+*.DS_Store
+
+# Ignore config and temporary files
+*.config
+*.tmp

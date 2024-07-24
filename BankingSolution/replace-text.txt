@@ -1,0 +1,1 @@
+mongodb+srv://vilumsjurgislv:BankingSystem123@blanconedb.yskrrp4.mongodb.net/blanconeDB?retryWrites=true&w=majority&appName=blanconeDB==>your-connection-string
